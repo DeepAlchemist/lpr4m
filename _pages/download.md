@@ -12,5 +12,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.leaderboard reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}

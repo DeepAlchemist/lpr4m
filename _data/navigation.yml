@@ -3,7 +3,7 @@ main:
   - title: "Download"
     url: /download/
   - title: "Leaderboard"
-    url: /leaderboard
+    url: /leaderboard/
   #- title: "Publications"
   #  url: /publications/
 
