@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Download our full dataset here"
-permalink: /download/
+title: "Download the full dataset here."
+permalink: /Download/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.download reversed %}
+{% for post in site.leaderboard reversed %}
   {% include archive-single.html %}
 {% endfor %}
