@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "LPR4M dataset"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "LPR4M"
 description              : &description "personal description"
 url                      : https://deepalchemist.github.io/lpr4m # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
