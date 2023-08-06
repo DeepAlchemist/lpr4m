@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Home"
-    url: /home/
   - title: "Download"
     url: /download/
+  - title: "Leaderboard"
+    url: /leaderboard
   #- title: "Publications"
   #  url: /publications/
 
